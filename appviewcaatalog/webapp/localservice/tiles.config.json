@@ -1,0 +1,28 @@
+{
+    "TileCollection": [
+        {
+            "Title": "Launchpad 1",
+            "Description": "Visualización de Colección de Items",
+            "Icon": "sap-icon://list",
+            "view": "ViewList"
+    },
+    {
+        "Title": "View Form",
+        "Description": "Visualización Formulario",
+        "Icon": "sap-icon://list",
+        "view": "ViewForm"
+    },
+    {
+        "Title": "Launchpad 3",
+        "Description": "Visualización de Colección de Items",
+        "Icon": "sap-icon://list",
+        "view": "ViewList"
+    }    ,
+    {
+        "Title": "Launchpad 4",
+        "Description": "Visualización de Colección de Items",
+        "Icon": "sap-icon://list",
+        "view": "ViewList"
+    }          
+    ]
+}

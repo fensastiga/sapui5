@@ -1,0 +1,10 @@
+<mvc:View controllerName="chisco.invoices.controller.AppView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <Button text="{/recipient/boton}" press=".onShowHello"></Button>
+        <Input value="{/recipient/nombre}" description="{i18n>holaDesc} {/recipient/nombre}" valueLiveUpdate="true" width="50%"></Input> 
+         </content>
+    </Page>
+</mvc:View>
